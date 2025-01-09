@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sara Monzon Fernández</h1>
 <h3 align="center">Bioinformatician with special interest in software development and Public Health</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saramonzon" alt="saramonzon" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saramonzon&theme=discord" alt="saramonzon" /></a> </p>
 
 - 🔭 I’m currently lead of [BU-ISCIII](https://github.com/BU-ISCIII/) in the Institute of Health Carlos III
 
