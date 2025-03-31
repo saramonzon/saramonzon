@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saramonzon&theme=discord" alt="saramonzon" /></a> </p>
 
-- 🔭 I’m currently lead of [BU-ISCIII](https://github.com/BU-ISCIII/) in the Institute of Health Carlos III
+- 🔭 I’m currently the technical lead of [BU-ISCIII](https://github.com/BU-ISCIII/) in the Institute of Health Carlos III
 
 - 👯 I’m looking to collaborate on **any project related to software development and/or Public Health**
 
